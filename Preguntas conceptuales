@@ -1,0 +1,37 @@
+Ventajas de usar SQLite en este proyecto
+
+SQLite es una base de datos liviana ideal para proyectos pequeños o educativos.
+
+---- Ventajas principales:
+
+1. Simple
+- No requiere instalación de servidor
+- Funciona como un archivo local (.db)
+
+2. Integración directa
+- Python ya incluye sqlite3
+- No requiere configuración adicional
+
+ 3. Portabilidad
+- La base de datos es un archivo único
+- Fácil de copiar o mover
+
+ 4. Bajo consumo de recursos
+- Ideal para aplicaciones pequeñas
+- No necesita procesos adicionales corriendo
+
+5. Perfecto para aprendizaje
+- Permite enfocarse en lógica sin complejidad de infraestructura
+
+---- Limitaciones
+
+- No es ideal para sistemas grandes o con muchos usuarios concurrentes
+- No escala como PostgreSQL o MySQL
+- Manejo limitado de concurrencia
+
+---- Conclusión
+
+SQLite es la mejor opción para este proyecto porque:
+- Es simple
+- Es rápida de implementar
+- Cumple perfectamente con los requisitos académicos
